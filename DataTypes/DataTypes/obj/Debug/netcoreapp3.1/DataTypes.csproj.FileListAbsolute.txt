@@ -1,0 +1,14 @@
+C:\temp\ProjetosVS2022\DataTypes\DataTypes\bin\Debug\netcoreapp3.1\DataTypes.exe
+C:\temp\ProjetosVS2022\DataTypes\DataTypes\bin\Debug\netcoreapp3.1\DataTypes.deps.json
+C:\temp\ProjetosVS2022\DataTypes\DataTypes\bin\Debug\netcoreapp3.1\DataTypes.runtimeconfig.json
+C:\temp\ProjetosVS2022\DataTypes\DataTypes\bin\Debug\netcoreapp3.1\DataTypes.runtimeconfig.dev.json
+C:\temp\ProjetosVS2022\DataTypes\DataTypes\bin\Debug\netcoreapp3.1\DataTypes.dll
+C:\temp\ProjetosVS2022\DataTypes\DataTypes\bin\Debug\netcoreapp3.1\DataTypes.pdb
+C:\temp\ProjetosVS2022\DataTypes\DataTypes\obj\Debug\netcoreapp3.1\DataTypes.csproj.AssemblyReference.cache
+C:\temp\ProjetosVS2022\DataTypes\DataTypes\obj\Debug\netcoreapp3.1\DataTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\ProjetosVS2022\DataTypes\DataTypes\obj\Debug\netcoreapp3.1\DataTypes.AssemblyInfoInputs.cache
+C:\temp\ProjetosVS2022\DataTypes\DataTypes\obj\Debug\netcoreapp3.1\DataTypes.AssemblyInfo.cs
+C:\temp\ProjetosVS2022\DataTypes\DataTypes\obj\Debug\netcoreapp3.1\DataTypes.csproj.CoreCompileInputs.cache
+C:\temp\ProjetosVS2022\DataTypes\DataTypes\obj\Debug\netcoreapp3.1\DataTypes.dll
+C:\temp\ProjetosVS2022\DataTypes\DataTypes\obj\Debug\netcoreapp3.1\DataTypes.pdb
+C:\temp\ProjetosVS2022\DataTypes\DataTypes\obj\Debug\netcoreapp3.1\DataTypes.genruntimeconfig.cache
