@@ -1,0 +1,14 @@
+C:\temp\ProjetosVS2022\DataOutput\DataOutput\bin\Debug\netcoreapp3.1\DataOutput.exe
+C:\temp\ProjetosVS2022\DataOutput\DataOutput\bin\Debug\netcoreapp3.1\DataOutput.deps.json
+C:\temp\ProjetosVS2022\DataOutput\DataOutput\bin\Debug\netcoreapp3.1\DataOutput.runtimeconfig.json
+C:\temp\ProjetosVS2022\DataOutput\DataOutput\bin\Debug\netcoreapp3.1\DataOutput.runtimeconfig.dev.json
+C:\temp\ProjetosVS2022\DataOutput\DataOutput\bin\Debug\netcoreapp3.1\DataOutput.dll
+C:\temp\ProjetosVS2022\DataOutput\DataOutput\bin\Debug\netcoreapp3.1\DataOutput.pdb
+C:\temp\ProjetosVS2022\DataOutput\DataOutput\obj\Debug\netcoreapp3.1\DataOutput.csproj.AssemblyReference.cache
+C:\temp\ProjetosVS2022\DataOutput\DataOutput\obj\Debug\netcoreapp3.1\DataOutput.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\ProjetosVS2022\DataOutput\DataOutput\obj\Debug\netcoreapp3.1\DataOutput.AssemblyInfoInputs.cache
+C:\temp\ProjetosVS2022\DataOutput\DataOutput\obj\Debug\netcoreapp3.1\DataOutput.AssemblyInfo.cs
+C:\temp\ProjetosVS2022\DataOutput\DataOutput\obj\Debug\netcoreapp3.1\DataOutput.csproj.CoreCompileInputs.cache
+C:\temp\ProjetosVS2022\DataOutput\DataOutput\obj\Debug\netcoreapp3.1\DataOutput.dll
+C:\temp\ProjetosVS2022\DataOutput\DataOutput\obj\Debug\netcoreapp3.1\DataOutput.pdb
+C:\temp\ProjetosVS2022\DataOutput\DataOutput\obj\Debug\netcoreapp3.1\DataOutput.genruntimeconfig.cache

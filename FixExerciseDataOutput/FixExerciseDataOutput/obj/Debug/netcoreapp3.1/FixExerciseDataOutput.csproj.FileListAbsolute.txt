@@ -1,0 +1,13 @@
+C:\temp\ProjetosVS2022\FixExerciseDataOutput\FixExerciseDataOutput\bin\Debug\netcoreapp3.1\FixExerciseDataOutput.exe
+C:\temp\ProjetosVS2022\FixExerciseDataOutput\FixExerciseDataOutput\bin\Debug\netcoreapp3.1\FixExerciseDataOutput.deps.json
+C:\temp\ProjetosVS2022\FixExerciseDataOutput\FixExerciseDataOutput\bin\Debug\netcoreapp3.1\FixExerciseDataOutput.runtimeconfig.json
+C:\temp\ProjetosVS2022\FixExerciseDataOutput\FixExerciseDataOutput\bin\Debug\netcoreapp3.1\FixExerciseDataOutput.runtimeconfig.dev.json
+C:\temp\ProjetosVS2022\FixExerciseDataOutput\FixExerciseDataOutput\bin\Debug\netcoreapp3.1\FixExerciseDataOutput.dll
+C:\temp\ProjetosVS2022\FixExerciseDataOutput\FixExerciseDataOutput\bin\Debug\netcoreapp3.1\FixExerciseDataOutput.pdb
+C:\temp\ProjetosVS2022\FixExerciseDataOutput\FixExerciseDataOutput\obj\Debug\netcoreapp3.1\FixExerciseDataOutput.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\ProjetosVS2022\FixExerciseDataOutput\FixExerciseDataOutput\obj\Debug\netcoreapp3.1\FixExerciseDataOutput.AssemblyInfoInputs.cache
+C:\temp\ProjetosVS2022\FixExerciseDataOutput\FixExerciseDataOutput\obj\Debug\netcoreapp3.1\FixExerciseDataOutput.AssemblyInfo.cs
+C:\temp\ProjetosVS2022\FixExerciseDataOutput\FixExerciseDataOutput\obj\Debug\netcoreapp3.1\FixExerciseDataOutput.csproj.CoreCompileInputs.cache
+C:\temp\ProjetosVS2022\FixExerciseDataOutput\FixExerciseDataOutput\obj\Debug\netcoreapp3.1\FixExerciseDataOutput.dll
+C:\temp\ProjetosVS2022\FixExerciseDataOutput\FixExerciseDataOutput\obj\Debug\netcoreapp3.1\FixExerciseDataOutput.pdb
+C:\temp\ProjetosVS2022\FixExerciseDataOutput\FixExerciseDataOutput\obj\Debug\netcoreapp3.1\FixExerciseDataOutput.genruntimeconfig.cache
