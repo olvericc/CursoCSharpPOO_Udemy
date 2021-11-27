@@ -1,0 +1,13 @@
+C:\temp\ProjetosVS2022\ArithmeticsOperators\ArithmeticsOperators\bin\Debug\netcoreapp3.1\ArithmeticsOperators.exe
+C:\temp\ProjetosVS2022\ArithmeticsOperators\ArithmeticsOperators\bin\Debug\netcoreapp3.1\ArithmeticsOperators.deps.json
+C:\temp\ProjetosVS2022\ArithmeticsOperators\ArithmeticsOperators\bin\Debug\netcoreapp3.1\ArithmeticsOperators.runtimeconfig.json
+C:\temp\ProjetosVS2022\ArithmeticsOperators\ArithmeticsOperators\bin\Debug\netcoreapp3.1\ArithmeticsOperators.runtimeconfig.dev.json
+C:\temp\ProjetosVS2022\ArithmeticsOperators\ArithmeticsOperators\bin\Debug\netcoreapp3.1\ArithmeticsOperators.dll
+C:\temp\ProjetosVS2022\ArithmeticsOperators\ArithmeticsOperators\bin\Debug\netcoreapp3.1\ArithmeticsOperators.pdb
+C:\temp\ProjetosVS2022\ArithmeticsOperators\ArithmeticsOperators\obj\Debug\netcoreapp3.1\ArithmeticsOperators.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\ProjetosVS2022\ArithmeticsOperators\ArithmeticsOperators\obj\Debug\netcoreapp3.1\ArithmeticsOperators.AssemblyInfoInputs.cache
+C:\temp\ProjetosVS2022\ArithmeticsOperators\ArithmeticsOperators\obj\Debug\netcoreapp3.1\ArithmeticsOperators.AssemblyInfo.cs
+C:\temp\ProjetosVS2022\ArithmeticsOperators\ArithmeticsOperators\obj\Debug\netcoreapp3.1\ArithmeticsOperators.csproj.CoreCompileInputs.cache
+C:\temp\ProjetosVS2022\ArithmeticsOperators\ArithmeticsOperators\obj\Debug\netcoreapp3.1\ArithmeticsOperators.dll
+C:\temp\ProjetosVS2022\ArithmeticsOperators\ArithmeticsOperators\obj\Debug\netcoreapp3.1\ArithmeticsOperators.pdb
+C:\temp\ProjetosVS2022\ArithmeticsOperators\ArithmeticsOperators\obj\Debug\netcoreapp3.1\ArithmeticsOperators.genruntimeconfig.cache
