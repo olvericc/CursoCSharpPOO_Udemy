@@ -1,0 +1,14 @@
+C:\temp\ProjetosVS2022\AssignmentOperators\AssignmentOperators\bin\Debug\netcoreapp3.1\AssignmentOperators.exe
+C:\temp\ProjetosVS2022\AssignmentOperators\AssignmentOperators\bin\Debug\netcoreapp3.1\AssignmentOperators.deps.json
+C:\temp\ProjetosVS2022\AssignmentOperators\AssignmentOperators\bin\Debug\netcoreapp3.1\AssignmentOperators.runtimeconfig.json
+C:\temp\ProjetosVS2022\AssignmentOperators\AssignmentOperators\bin\Debug\netcoreapp3.1\AssignmentOperators.runtimeconfig.dev.json
+C:\temp\ProjetosVS2022\AssignmentOperators\AssignmentOperators\bin\Debug\netcoreapp3.1\AssignmentOperators.dll
+C:\temp\ProjetosVS2022\AssignmentOperators\AssignmentOperators\bin\Debug\netcoreapp3.1\AssignmentOperators.pdb
+C:\temp\ProjetosVS2022\AssignmentOperators\AssignmentOperators\obj\Debug\netcoreapp3.1\AssignmentOperators.csproj.AssemblyReference.cache
+C:\temp\ProjetosVS2022\AssignmentOperators\AssignmentOperators\obj\Debug\netcoreapp3.1\AssignmentOperators.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\ProjetosVS2022\AssignmentOperators\AssignmentOperators\obj\Debug\netcoreapp3.1\AssignmentOperators.AssemblyInfoInputs.cache
+C:\temp\ProjetosVS2022\AssignmentOperators\AssignmentOperators\obj\Debug\netcoreapp3.1\AssignmentOperators.AssemblyInfo.cs
+C:\temp\ProjetosVS2022\AssignmentOperators\AssignmentOperators\obj\Debug\netcoreapp3.1\AssignmentOperators.csproj.CoreCompileInputs.cache
+C:\temp\ProjetosVS2022\AssignmentOperators\AssignmentOperators\obj\Debug\netcoreapp3.1\AssignmentOperators.dll
+C:\temp\ProjetosVS2022\AssignmentOperators\AssignmentOperators\obj\Debug\netcoreapp3.1\AssignmentOperators.pdb
+C:\temp\ProjetosVS2022\AssignmentOperators\AssignmentOperators\obj\Debug\netcoreapp3.1\AssignmentOperators.genruntimeconfig.cache
