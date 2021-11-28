@@ -26,7 +26,7 @@ namespace ArithmeticsOperators {
             Console.WriteLine("result delta: " + delta);
             Console.WriteLine("x1: " + x1);
             Console.WriteLine("x2: " + x2);
-
+            
         }
     }
 }
