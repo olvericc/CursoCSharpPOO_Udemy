@@ -1,0 +1,14 @@
+C:\temp\ProjetosVS2022\DataInput2\DataInput2\bin\Debug\netcoreapp3.1\DataInput2.exe
+C:\temp\ProjetosVS2022\DataInput2\DataInput2\bin\Debug\netcoreapp3.1\DataInput2.deps.json
+C:\temp\ProjetosVS2022\DataInput2\DataInput2\bin\Debug\netcoreapp3.1\DataInput2.runtimeconfig.json
+C:\temp\ProjetosVS2022\DataInput2\DataInput2\bin\Debug\netcoreapp3.1\DataInput2.runtimeconfig.dev.json
+C:\temp\ProjetosVS2022\DataInput2\DataInput2\bin\Debug\netcoreapp3.1\DataInput2.dll
+C:\temp\ProjetosVS2022\DataInput2\DataInput2\bin\Debug\netcoreapp3.1\DataInput2.pdb
+C:\temp\ProjetosVS2022\DataInput2\DataInput2\obj\Debug\netcoreapp3.1\DataInput2.csproj.AssemblyReference.cache
+C:\temp\ProjetosVS2022\DataInput2\DataInput2\obj\Debug\netcoreapp3.1\DataInput2.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\ProjetosVS2022\DataInput2\DataInput2\obj\Debug\netcoreapp3.1\DataInput2.AssemblyInfoInputs.cache
+C:\temp\ProjetosVS2022\DataInput2\DataInput2\obj\Debug\netcoreapp3.1\DataInput2.AssemblyInfo.cs
+C:\temp\ProjetosVS2022\DataInput2\DataInput2\obj\Debug\netcoreapp3.1\DataInput2.csproj.CoreCompileInputs.cache
+C:\temp\ProjetosVS2022\DataInput2\DataInput2\obj\Debug\netcoreapp3.1\DataInput2.dll
+C:\temp\ProjetosVS2022\DataInput2\DataInput2\obj\Debug\netcoreapp3.1\DataInput2.pdb
+C:\temp\ProjetosVS2022\DataInput2\DataInput2\obj\Debug\netcoreapp3.1\DataInput2.genruntimeconfig.cache
