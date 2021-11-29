@@ -1,0 +1,13 @@
+C:\temp\ProjetosVS2022\ComparativeOperators\ComparativeOperators\bin\Debug\netcoreapp3.1\ComparativeOperators.exe
+C:\temp\ProjetosVS2022\ComparativeOperators\ComparativeOperators\bin\Debug\netcoreapp3.1\ComparativeOperators.deps.json
+C:\temp\ProjetosVS2022\ComparativeOperators\ComparativeOperators\bin\Debug\netcoreapp3.1\ComparativeOperators.runtimeconfig.json
+C:\temp\ProjetosVS2022\ComparativeOperators\ComparativeOperators\bin\Debug\netcoreapp3.1\ComparativeOperators.runtimeconfig.dev.json
+C:\temp\ProjetosVS2022\ComparativeOperators\ComparativeOperators\bin\Debug\netcoreapp3.1\ComparativeOperators.dll
+C:\temp\ProjetosVS2022\ComparativeOperators\ComparativeOperators\bin\Debug\netcoreapp3.1\ComparativeOperators.pdb
+C:\temp\ProjetosVS2022\ComparativeOperators\ComparativeOperators\obj\Debug\netcoreapp3.1\ComparativeOperators.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\ProjetosVS2022\ComparativeOperators\ComparativeOperators\obj\Debug\netcoreapp3.1\ComparativeOperators.AssemblyInfoInputs.cache
+C:\temp\ProjetosVS2022\ComparativeOperators\ComparativeOperators\obj\Debug\netcoreapp3.1\ComparativeOperators.AssemblyInfo.cs
+C:\temp\ProjetosVS2022\ComparativeOperators\ComparativeOperators\obj\Debug\netcoreapp3.1\ComparativeOperators.csproj.CoreCompileInputs.cache
+C:\temp\ProjetosVS2022\ComparativeOperators\ComparativeOperators\obj\Debug\netcoreapp3.1\ComparativeOperators.dll
+C:\temp\ProjetosVS2022\ComparativeOperators\ComparativeOperators\obj\Debug\netcoreapp3.1\ComparativeOperators.pdb
+C:\temp\ProjetosVS2022\ComparativeOperators\ComparativeOperators\obj\Debug\netcoreapp3.1\ComparativeOperators.genruntimeconfig.cache
