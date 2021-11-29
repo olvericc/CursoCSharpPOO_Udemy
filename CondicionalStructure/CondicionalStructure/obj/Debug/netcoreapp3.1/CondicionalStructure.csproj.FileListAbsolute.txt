@@ -1,0 +1,14 @@
+C:\temp\ProjetosVS2022\CondicionalStructure\CondicionalStructure\bin\Debug\netcoreapp3.1\CondicionalStructure.exe
+C:\temp\ProjetosVS2022\CondicionalStructure\CondicionalStructure\bin\Debug\netcoreapp3.1\CondicionalStructure.deps.json
+C:\temp\ProjetosVS2022\CondicionalStructure\CondicionalStructure\bin\Debug\netcoreapp3.1\CondicionalStructure.runtimeconfig.json
+C:\temp\ProjetosVS2022\CondicionalStructure\CondicionalStructure\bin\Debug\netcoreapp3.1\CondicionalStructure.runtimeconfig.dev.json
+C:\temp\ProjetosVS2022\CondicionalStructure\CondicionalStructure\bin\Debug\netcoreapp3.1\CondicionalStructure.dll
+C:\temp\ProjetosVS2022\CondicionalStructure\CondicionalStructure\bin\Debug\netcoreapp3.1\CondicionalStructure.pdb
+C:\temp\ProjetosVS2022\CondicionalStructure\CondicionalStructure\obj\Debug\netcoreapp3.1\CondicionalStructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\ProjetosVS2022\CondicionalStructure\CondicionalStructure\obj\Debug\netcoreapp3.1\CondicionalStructure.AssemblyInfoInputs.cache
+C:\temp\ProjetosVS2022\CondicionalStructure\CondicionalStructure\obj\Debug\netcoreapp3.1\CondicionalStructure.AssemblyInfo.cs
+C:\temp\ProjetosVS2022\CondicionalStructure\CondicionalStructure\obj\Debug\netcoreapp3.1\CondicionalStructure.csproj.CoreCompileInputs.cache
+C:\temp\ProjetosVS2022\CondicionalStructure\CondicionalStructure\obj\Debug\netcoreapp3.1\CondicionalStructure.dll
+C:\temp\ProjetosVS2022\CondicionalStructure\CondicionalStructure\obj\Debug\netcoreapp3.1\CondicionalStructure.pdb
+C:\temp\ProjetosVS2022\CondicionalStructure\CondicionalStructure\obj\Debug\netcoreapp3.1\CondicionalStructure.genruntimeconfig.cache
+C:\temp\ProjetosVS2022\CondicionalStructure\CondicionalStructure\obj\Debug\netcoreapp3.1\CondicionalStructure.csproj.AssemblyReference.cache
