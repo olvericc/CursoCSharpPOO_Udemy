@@ -1,0 +1,14 @@
+C:\temp\ProjetosVS2022\ScopeAndInicilization\ScopeAndInicilization\bin\Debug\netcoreapp3.1\ScopeAndInicilization.exe
+C:\temp\ProjetosVS2022\ScopeAndInicilization\ScopeAndInicilization\bin\Debug\netcoreapp3.1\ScopeAndInicilization.deps.json
+C:\temp\ProjetosVS2022\ScopeAndInicilization\ScopeAndInicilization\bin\Debug\netcoreapp3.1\ScopeAndInicilization.runtimeconfig.json
+C:\temp\ProjetosVS2022\ScopeAndInicilization\ScopeAndInicilization\bin\Debug\netcoreapp3.1\ScopeAndInicilization.runtimeconfig.dev.json
+C:\temp\ProjetosVS2022\ScopeAndInicilization\ScopeAndInicilization\bin\Debug\netcoreapp3.1\ScopeAndInicilization.dll
+C:\temp\ProjetosVS2022\ScopeAndInicilization\ScopeAndInicilization\bin\Debug\netcoreapp3.1\ScopeAndInicilization.pdb
+C:\temp\ProjetosVS2022\ScopeAndInicilization\ScopeAndInicilization\obj\Debug\netcoreapp3.1\ScopeAndInicilization.csproj.AssemblyReference.cache
+C:\temp\ProjetosVS2022\ScopeAndInicilization\ScopeAndInicilization\obj\Debug\netcoreapp3.1\ScopeAndInicilization.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\ProjetosVS2022\ScopeAndInicilization\ScopeAndInicilization\obj\Debug\netcoreapp3.1\ScopeAndInicilization.AssemblyInfoInputs.cache
+C:\temp\ProjetosVS2022\ScopeAndInicilization\ScopeAndInicilization\obj\Debug\netcoreapp3.1\ScopeAndInicilization.AssemblyInfo.cs
+C:\temp\ProjetosVS2022\ScopeAndInicilization\ScopeAndInicilization\obj\Debug\netcoreapp3.1\ScopeAndInicilization.csproj.CoreCompileInputs.cache
+C:\temp\ProjetosVS2022\ScopeAndInicilization\ScopeAndInicilization\obj\Debug\netcoreapp3.1\ScopeAndInicilization.dll
+C:\temp\ProjetosVS2022\ScopeAndInicilization\ScopeAndInicilization\obj\Debug\netcoreapp3.1\ScopeAndInicilization.pdb
+C:\temp\ProjetosVS2022\ScopeAndInicilization\ScopeAndInicilization\obj\Debug\netcoreapp3.1\ScopeAndInicilization.genruntimeconfig.cache
