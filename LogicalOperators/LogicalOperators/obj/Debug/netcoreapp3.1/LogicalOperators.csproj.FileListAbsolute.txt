@@ -1,0 +1,14 @@
+C:\temp\ProjetosVS2022\LogicalOperators\LogicalOperators\bin\Debug\netcoreapp3.1\LogicalOperators.exe
+C:\temp\ProjetosVS2022\LogicalOperators\LogicalOperators\bin\Debug\netcoreapp3.1\LogicalOperators.deps.json
+C:\temp\ProjetosVS2022\LogicalOperators\LogicalOperators\bin\Debug\netcoreapp3.1\LogicalOperators.runtimeconfig.json
+C:\temp\ProjetosVS2022\LogicalOperators\LogicalOperators\bin\Debug\netcoreapp3.1\LogicalOperators.runtimeconfig.dev.json
+C:\temp\ProjetosVS2022\LogicalOperators\LogicalOperators\bin\Debug\netcoreapp3.1\LogicalOperators.dll
+C:\temp\ProjetosVS2022\LogicalOperators\LogicalOperators\bin\Debug\netcoreapp3.1\LogicalOperators.pdb
+C:\temp\ProjetosVS2022\LogicalOperators\LogicalOperators\obj\Debug\netcoreapp3.1\LogicalOperators.csproj.AssemblyReference.cache
+C:\temp\ProjetosVS2022\LogicalOperators\LogicalOperators\obj\Debug\netcoreapp3.1\LogicalOperators.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\ProjetosVS2022\LogicalOperators\LogicalOperators\obj\Debug\netcoreapp3.1\LogicalOperators.AssemblyInfoInputs.cache
+C:\temp\ProjetosVS2022\LogicalOperators\LogicalOperators\obj\Debug\netcoreapp3.1\LogicalOperators.AssemblyInfo.cs
+C:\temp\ProjetosVS2022\LogicalOperators\LogicalOperators\obj\Debug\netcoreapp3.1\LogicalOperators.csproj.CoreCompileInputs.cache
+C:\temp\ProjetosVS2022\LogicalOperators\LogicalOperators\obj\Debug\netcoreapp3.1\LogicalOperators.dll
+C:\temp\ProjetosVS2022\LogicalOperators\LogicalOperators\obj\Debug\netcoreapp3.1\LogicalOperators.pdb
+C:\temp\ProjetosVS2022\LogicalOperators\LogicalOperators\obj\Debug\netcoreapp3.1\LogicalOperators.genruntimeconfig.cache
