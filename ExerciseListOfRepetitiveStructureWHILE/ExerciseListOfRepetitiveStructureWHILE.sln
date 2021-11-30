@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31912.275
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExerciseListOfRepetitiveStructureWHILE", "ExerciseListOfRepetitiveStructureWHILE\ExerciseListOfRepetitiveStructureWHILE.csproj", "{24D2D554-F02E-40B1-AC71-1D551E05D748}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{24D2D554-F02E-40B1-AC71-1D551E05D748}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24D2D554-F02E-40B1-AC71-1D551E05D748}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24D2D554-F02E-40B1-AC71-1D551E05D748}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24D2D554-F02E-40B1-AC71-1D551E05D748}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AED80DD8-134E-4BC5-A923-1DB6591AFD9D}
+	EndGlobalSection
+EndGlobal
