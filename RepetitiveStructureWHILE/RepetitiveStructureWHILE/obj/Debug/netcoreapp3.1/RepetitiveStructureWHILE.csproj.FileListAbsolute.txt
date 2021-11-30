@@ -1,0 +1,14 @@
+C:\temp\ProjetosVS2022\RepetitiveStructureWHILE\RepetitiveStructureWHILE\obj\Debug\netcoreapp3.1\RepetitiveStructureWHILE.csproj.AssemblyReference.cache
+C:\temp\ProjetosVS2022\RepetitiveStructureWHILE\RepetitiveStructureWHILE\obj\Debug\netcoreapp3.1\RepetitiveStructureWHILE.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\ProjetosVS2022\RepetitiveStructureWHILE\RepetitiveStructureWHILE\obj\Debug\netcoreapp3.1\RepetitiveStructureWHILE.AssemblyInfoInputs.cache
+C:\temp\ProjetosVS2022\RepetitiveStructureWHILE\RepetitiveStructureWHILE\obj\Debug\netcoreapp3.1\RepetitiveStructureWHILE.AssemblyInfo.cs
+C:\temp\ProjetosVS2022\RepetitiveStructureWHILE\RepetitiveStructureWHILE\obj\Debug\netcoreapp3.1\RepetitiveStructureWHILE.csproj.CoreCompileInputs.cache
+C:\temp\ProjetosVS2022\RepetitiveStructureWHILE\RepetitiveStructureWHILE\bin\Debug\netcoreapp3.1\RepetitiveStructureWHILE.exe
+C:\temp\ProjetosVS2022\RepetitiveStructureWHILE\RepetitiveStructureWHILE\bin\Debug\netcoreapp3.1\RepetitiveStructureWHILE.deps.json
+C:\temp\ProjetosVS2022\RepetitiveStructureWHILE\RepetitiveStructureWHILE\bin\Debug\netcoreapp3.1\RepetitiveStructureWHILE.runtimeconfig.json
+C:\temp\ProjetosVS2022\RepetitiveStructureWHILE\RepetitiveStructureWHILE\bin\Debug\netcoreapp3.1\RepetitiveStructureWHILE.runtimeconfig.dev.json
+C:\temp\ProjetosVS2022\RepetitiveStructureWHILE\RepetitiveStructureWHILE\bin\Debug\netcoreapp3.1\RepetitiveStructureWHILE.dll
+C:\temp\ProjetosVS2022\RepetitiveStructureWHILE\RepetitiveStructureWHILE\bin\Debug\netcoreapp3.1\RepetitiveStructureWHILE.pdb
+C:\temp\ProjetosVS2022\RepetitiveStructureWHILE\RepetitiveStructureWHILE\obj\Debug\netcoreapp3.1\RepetitiveStructureWHILE.dll
+C:\temp\ProjetosVS2022\RepetitiveStructureWHILE\RepetitiveStructureWHILE\obj\Debug\netcoreapp3.1\RepetitiveStructureWHILE.pdb
+C:\temp\ProjetosVS2022\RepetitiveStructureWHILE\RepetitiveStructureWHILE\obj\Debug\netcoreapp3.1\RepetitiveStructureWHILE.genruntimeconfig.cache
