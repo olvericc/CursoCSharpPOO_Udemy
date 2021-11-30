@@ -1,0 +1,14 @@
+C:\temp\ProjetosVS2022\FunctionsSintax\FunctionsSintax\bin\Debug\netcoreapp3.1\FunctionsSintax.exe
+C:\temp\ProjetosVS2022\FunctionsSintax\FunctionsSintax\bin\Debug\netcoreapp3.1\FunctionsSintax.deps.json
+C:\temp\ProjetosVS2022\FunctionsSintax\FunctionsSintax\bin\Debug\netcoreapp3.1\FunctionsSintax.runtimeconfig.json
+C:\temp\ProjetosVS2022\FunctionsSintax\FunctionsSintax\bin\Debug\netcoreapp3.1\FunctionsSintax.runtimeconfig.dev.json
+C:\temp\ProjetosVS2022\FunctionsSintax\FunctionsSintax\bin\Debug\netcoreapp3.1\FunctionsSintax.dll
+C:\temp\ProjetosVS2022\FunctionsSintax\FunctionsSintax\bin\Debug\netcoreapp3.1\FunctionsSintax.pdb
+C:\temp\ProjetosVS2022\FunctionsSintax\FunctionsSintax\obj\Debug\netcoreapp3.1\FunctionsSintax.csproj.AssemblyReference.cache
+C:\temp\ProjetosVS2022\FunctionsSintax\FunctionsSintax\obj\Debug\netcoreapp3.1\FunctionsSintax.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\ProjetosVS2022\FunctionsSintax\FunctionsSintax\obj\Debug\netcoreapp3.1\FunctionsSintax.AssemblyInfoInputs.cache
+C:\temp\ProjetosVS2022\FunctionsSintax\FunctionsSintax\obj\Debug\netcoreapp3.1\FunctionsSintax.AssemblyInfo.cs
+C:\temp\ProjetosVS2022\FunctionsSintax\FunctionsSintax\obj\Debug\netcoreapp3.1\FunctionsSintax.csproj.CoreCompileInputs.cache
+C:\temp\ProjetosVS2022\FunctionsSintax\FunctionsSintax\obj\Debug\netcoreapp3.1\FunctionsSintax.dll
+C:\temp\ProjetosVS2022\FunctionsSintax\FunctionsSintax\obj\Debug\netcoreapp3.1\FunctionsSintax.pdb
+C:\temp\ProjetosVS2022\FunctionsSintax\FunctionsSintax\obj\Debug\netcoreapp3.1\FunctionsSintax.genruntimeconfig.cache
