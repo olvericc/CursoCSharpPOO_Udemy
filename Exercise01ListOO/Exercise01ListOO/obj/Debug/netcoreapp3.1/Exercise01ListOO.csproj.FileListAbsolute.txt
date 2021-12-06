@@ -1,0 +1,14 @@
+C:\temp\ProjetosVS2022\Exercise01ListOO\Exercise01ListOO\bin\Debug\netcoreapp3.1\Exercise01ListOO.exe
+C:\temp\ProjetosVS2022\Exercise01ListOO\Exercise01ListOO\bin\Debug\netcoreapp3.1\Exercise01ListOO.deps.json
+C:\temp\ProjetosVS2022\Exercise01ListOO\Exercise01ListOO\bin\Debug\netcoreapp3.1\Exercise01ListOO.runtimeconfig.json
+C:\temp\ProjetosVS2022\Exercise01ListOO\Exercise01ListOO\bin\Debug\netcoreapp3.1\Exercise01ListOO.runtimeconfig.dev.json
+C:\temp\ProjetosVS2022\Exercise01ListOO\Exercise01ListOO\bin\Debug\netcoreapp3.1\Exercise01ListOO.dll
+C:\temp\ProjetosVS2022\Exercise01ListOO\Exercise01ListOO\bin\Debug\netcoreapp3.1\Exercise01ListOO.pdb
+C:\temp\ProjetosVS2022\Exercise01ListOO\Exercise01ListOO\obj\Debug\netcoreapp3.1\Exercise01ListOO.csproj.AssemblyReference.cache
+C:\temp\ProjetosVS2022\Exercise01ListOO\Exercise01ListOO\obj\Debug\netcoreapp3.1\Exercise01ListOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\ProjetosVS2022\Exercise01ListOO\Exercise01ListOO\obj\Debug\netcoreapp3.1\Exercise01ListOO.AssemblyInfoInputs.cache
+C:\temp\ProjetosVS2022\Exercise01ListOO\Exercise01ListOO\obj\Debug\netcoreapp3.1\Exercise01ListOO.AssemblyInfo.cs
+C:\temp\ProjetosVS2022\Exercise01ListOO\Exercise01ListOO\obj\Debug\netcoreapp3.1\Exercise01ListOO.csproj.CoreCompileInputs.cache
+C:\temp\ProjetosVS2022\Exercise01ListOO\Exercise01ListOO\obj\Debug\netcoreapp3.1\Exercise01ListOO.dll
+C:\temp\ProjetosVS2022\Exercise01ListOO\Exercise01ListOO\obj\Debug\netcoreapp3.1\Exercise01ListOO.pdb
+C:\temp\ProjetosVS2022\Exercise01ListOO\Exercise01ListOO\obj\Debug\netcoreapp3.1\Exercise01ListOO.genruntimeconfig.cache
