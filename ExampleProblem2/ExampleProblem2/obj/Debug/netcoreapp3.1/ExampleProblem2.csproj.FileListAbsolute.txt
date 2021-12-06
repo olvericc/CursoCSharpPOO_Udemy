@@ -1,0 +1,14 @@
+C:\temp\ProjetosVS2022\ExampleProblem2\ExampleProblem2\obj\Debug\netcoreapp3.1\ExampleProblem2.csproj.AssemblyReference.cache
+C:\temp\ProjetosVS2022\ExampleProblem2\ExampleProblem2\obj\Debug\netcoreapp3.1\ExampleProblem2.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\ProjetosVS2022\ExampleProblem2\ExampleProblem2\obj\Debug\netcoreapp3.1\ExampleProblem2.AssemblyInfoInputs.cache
+C:\temp\ProjetosVS2022\ExampleProblem2\ExampleProblem2\obj\Debug\netcoreapp3.1\ExampleProblem2.AssemblyInfo.cs
+C:\temp\ProjetosVS2022\ExampleProblem2\ExampleProblem2\obj\Debug\netcoreapp3.1\ExampleProblem2.csproj.CoreCompileInputs.cache
+C:\temp\ProjetosVS2022\ExampleProblem2\ExampleProblem2\bin\Debug\netcoreapp3.1\ExampleProblem2.exe
+C:\temp\ProjetosVS2022\ExampleProblem2\ExampleProblem2\bin\Debug\netcoreapp3.1\ExampleProblem2.deps.json
+C:\temp\ProjetosVS2022\ExampleProblem2\ExampleProblem2\bin\Debug\netcoreapp3.1\ExampleProblem2.runtimeconfig.json
+C:\temp\ProjetosVS2022\ExampleProblem2\ExampleProblem2\bin\Debug\netcoreapp3.1\ExampleProblem2.runtimeconfig.dev.json
+C:\temp\ProjetosVS2022\ExampleProblem2\ExampleProblem2\bin\Debug\netcoreapp3.1\ExampleProblem2.dll
+C:\temp\ProjetosVS2022\ExampleProblem2\ExampleProblem2\bin\Debug\netcoreapp3.1\ExampleProblem2.pdb
+C:\temp\ProjetosVS2022\ExampleProblem2\ExampleProblem2\obj\Debug\netcoreapp3.1\ExampleProblem2.dll
+C:\temp\ProjetosVS2022\ExampleProblem2\ExampleProblem2\obj\Debug\netcoreapp3.1\ExampleProblem2.pdb
+C:\temp\ProjetosVS2022\ExampleProblem2\ExampleProblem2\obj\Debug\netcoreapp3.1\ExampleProblem2.genruntimeconfig.cache
