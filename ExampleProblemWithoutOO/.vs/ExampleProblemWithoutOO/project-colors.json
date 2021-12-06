@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "6d95c424-4b58-4b78-b754-a7c24319b326": {
+      "ProjectGuid": "6d95c424-4b58-4b78-b754-a7c24319b326",
+      "DisplayName": "ExampleProblemWithoutOO",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

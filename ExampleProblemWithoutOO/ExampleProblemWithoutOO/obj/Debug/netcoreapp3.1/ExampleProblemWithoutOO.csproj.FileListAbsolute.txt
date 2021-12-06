@@ -1,0 +1,14 @@
+C:\temp\ProjetosVS2022\ExampleProblemWithoutOO\ExampleProblemWithoutOO\bin\Debug\netcoreapp3.1\ExampleProblemWithoutOO.exe
+C:\temp\ProjetosVS2022\ExampleProblemWithoutOO\ExampleProblemWithoutOO\bin\Debug\netcoreapp3.1\ExampleProblemWithoutOO.deps.json
+C:\temp\ProjetosVS2022\ExampleProblemWithoutOO\ExampleProblemWithoutOO\bin\Debug\netcoreapp3.1\ExampleProblemWithoutOO.runtimeconfig.json
+C:\temp\ProjetosVS2022\ExampleProblemWithoutOO\ExampleProblemWithoutOO\bin\Debug\netcoreapp3.1\ExampleProblemWithoutOO.runtimeconfig.dev.json
+C:\temp\ProjetosVS2022\ExampleProblemWithoutOO\ExampleProblemWithoutOO\bin\Debug\netcoreapp3.1\ExampleProblemWithoutOO.dll
+C:\temp\ProjetosVS2022\ExampleProblemWithoutOO\ExampleProblemWithoutOO\bin\Debug\netcoreapp3.1\ExampleProblemWithoutOO.pdb
+C:\temp\ProjetosVS2022\ExampleProblemWithoutOO\ExampleProblemWithoutOO\obj\Debug\netcoreapp3.1\ExampleProblemWithoutOO.csproj.AssemblyReference.cache
+C:\temp\ProjetosVS2022\ExampleProblemWithoutOO\ExampleProblemWithoutOO\obj\Debug\netcoreapp3.1\ExampleProblemWithoutOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\ProjetosVS2022\ExampleProblemWithoutOO\ExampleProblemWithoutOO\obj\Debug\netcoreapp3.1\ExampleProblemWithoutOO.AssemblyInfoInputs.cache
+C:\temp\ProjetosVS2022\ExampleProblemWithoutOO\ExampleProblemWithoutOO\obj\Debug\netcoreapp3.1\ExampleProblemWithoutOO.AssemblyInfo.cs
+C:\temp\ProjetosVS2022\ExampleProblemWithoutOO\ExampleProblemWithoutOO\obj\Debug\netcoreapp3.1\ExampleProblemWithoutOO.csproj.CoreCompileInputs.cache
+C:\temp\ProjetosVS2022\ExampleProblemWithoutOO\ExampleProblemWithoutOO\obj\Debug\netcoreapp3.1\ExampleProblemWithoutOO.dll
+C:\temp\ProjetosVS2022\ExampleProblemWithoutOO\ExampleProblemWithoutOO\obj\Debug\netcoreapp3.1\ExampleProblemWithoutOO.pdb
+C:\temp\ProjetosVS2022\ExampleProblemWithoutOO\ExampleProblemWithoutOO\obj\Debug\netcoreapp3.1\ExampleProblemWithoutOO.genruntimeconfig.cache
