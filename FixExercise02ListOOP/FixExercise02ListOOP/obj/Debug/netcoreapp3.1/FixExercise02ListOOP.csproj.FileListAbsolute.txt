@@ -1,0 +1,14 @@
+C:\temp\ProjetosVS2022\FixExercise02ListOOP\FixExercise02ListOOP\bin\Debug\netcoreapp3.1\FixExercise02ListOOP.exe
+C:\temp\ProjetosVS2022\FixExercise02ListOOP\FixExercise02ListOOP\bin\Debug\netcoreapp3.1\FixExercise02ListOOP.deps.json
+C:\temp\ProjetosVS2022\FixExercise02ListOOP\FixExercise02ListOOP\bin\Debug\netcoreapp3.1\FixExercise02ListOOP.runtimeconfig.json
+C:\temp\ProjetosVS2022\FixExercise02ListOOP\FixExercise02ListOOP\bin\Debug\netcoreapp3.1\FixExercise02ListOOP.runtimeconfig.dev.json
+C:\temp\ProjetosVS2022\FixExercise02ListOOP\FixExercise02ListOOP\bin\Debug\netcoreapp3.1\FixExercise02ListOOP.dll
+C:\temp\ProjetosVS2022\FixExercise02ListOOP\FixExercise02ListOOP\bin\Debug\netcoreapp3.1\FixExercise02ListOOP.pdb
+C:\temp\ProjetosVS2022\FixExercise02ListOOP\FixExercise02ListOOP\obj\Debug\netcoreapp3.1\FixExercise02ListOOP.csproj.AssemblyReference.cache
+C:\temp\ProjetosVS2022\FixExercise02ListOOP\FixExercise02ListOOP\obj\Debug\netcoreapp3.1\FixExercise02ListOOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\ProjetosVS2022\FixExercise02ListOOP\FixExercise02ListOOP\obj\Debug\netcoreapp3.1\FixExercise02ListOOP.AssemblyInfoInputs.cache
+C:\temp\ProjetosVS2022\FixExercise02ListOOP\FixExercise02ListOOP\obj\Debug\netcoreapp3.1\FixExercise02ListOOP.AssemblyInfo.cs
+C:\temp\ProjetosVS2022\FixExercise02ListOOP\FixExercise02ListOOP\obj\Debug\netcoreapp3.1\FixExercise02ListOOP.csproj.CoreCompileInputs.cache
+C:\temp\ProjetosVS2022\FixExercise02ListOOP\FixExercise02ListOOP\obj\Debug\netcoreapp3.1\FixExercise02ListOOP.dll
+C:\temp\ProjetosVS2022\FixExercise02ListOOP\FixExercise02ListOOP\obj\Debug\netcoreapp3.1\FixExercise02ListOOP.pdb
+C:\temp\ProjetosVS2022\FixExercise02ListOOP\FixExercise02ListOOP\obj\Debug\netcoreapp3.1\FixExercise02ListOOP.genruntimeconfig.cache
