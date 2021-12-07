@@ -16,6 +16,16 @@ namespace ExampleProblem2 {
             return Price * Quantity;
         }
 
+        // method AddProducts()
+        public void AddProducts(int quantity) {
+            Quantity += quantity;
+        }
+
+        // method RemoveProducts()
+        public void RemoveProducts(int quantity) {
+            Quantity -= quantity;
+        }
+
         // method ToString()
         public override string ToString() {
             return Name 
@@ -26,6 +36,5 @@ namespace ExampleProblem2 {
                 + " units in stock, total: $"
                 + TotalValueInStock().ToString("F2", CultureInfo.InvariantCulture);
         }
-
     }
 }

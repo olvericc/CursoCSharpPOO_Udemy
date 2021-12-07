@@ -16,7 +16,24 @@ namespace ExampleProblem2 {
             Console.Write("quantity in stock: ");
             p.Quantity = int.Parse(Console.ReadLine());
 
+            Console.WriteLine();
             Console.WriteLine("product data: " + p);
+
+            Console.WriteLine();
+            Console.Write("enter with the number of products to be added on stock: ");
+            int addQuantity = int.Parse(Console.ReadLine());
+            p.AddProducts(addQuantity);
+
+            Console.WriteLine();
+            Console.WriteLine("updated data: " + p);
+
+            Console.WriteLine();
+            Console.Write("enter with the numbers of products to be removed on stock: ");
+            int removeQuantity = int.Parse(Console.ReadLine());
+            p.RemoveProducts(removeQuantity);
+
+            Console.WriteLine();
+            Console.WriteLine("updated data: " + p);
 
         }
     }
