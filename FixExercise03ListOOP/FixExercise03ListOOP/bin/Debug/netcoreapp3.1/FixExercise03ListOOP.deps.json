@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "FixExercise03ListOOP/1.0.0": {
+        "runtime": {
+          "FixExercise03ListOOP.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FixExercise03ListOOP/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
