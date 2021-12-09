@@ -1,0 +1,13 @@
+C:\temp\ProjetosVS2022\StaticMembersV3\StaticMembersV3\bin\Debug\netcoreapp3.1\StaticMembersV3.exe
+C:\temp\ProjetosVS2022\StaticMembersV3\StaticMembersV3\bin\Debug\netcoreapp3.1\StaticMembersV3.deps.json
+C:\temp\ProjetosVS2022\StaticMembersV3\StaticMembersV3\bin\Debug\netcoreapp3.1\StaticMembersV3.runtimeconfig.json
+C:\temp\ProjetosVS2022\StaticMembersV3\StaticMembersV3\bin\Debug\netcoreapp3.1\StaticMembersV3.runtimeconfig.dev.json
+C:\temp\ProjetosVS2022\StaticMembersV3\StaticMembersV3\bin\Debug\netcoreapp3.1\StaticMembersV3.dll
+C:\temp\ProjetosVS2022\StaticMembersV3\StaticMembersV3\bin\Debug\netcoreapp3.1\StaticMembersV3.pdb
+C:\temp\ProjetosVS2022\StaticMembersV3\StaticMembersV3\obj\Debug\netcoreapp3.1\StaticMembersV3.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\ProjetosVS2022\StaticMembersV3\StaticMembersV3\obj\Debug\netcoreapp3.1\StaticMembersV3.AssemblyInfoInputs.cache
+C:\temp\ProjetosVS2022\StaticMembersV3\StaticMembersV3\obj\Debug\netcoreapp3.1\StaticMembersV3.AssemblyInfo.cs
+C:\temp\ProjetosVS2022\StaticMembersV3\StaticMembersV3\obj\Debug\netcoreapp3.1\StaticMembersV3.csproj.CoreCompileInputs.cache
+C:\temp\ProjetosVS2022\StaticMembersV3\StaticMembersV3\obj\Debug\netcoreapp3.1\StaticMembersV3.dll
+C:\temp\ProjetosVS2022\StaticMembersV3\StaticMembersV3\obj\Debug\netcoreapp3.1\StaticMembersV3.pdb
+C:\temp\ProjetosVS2022\StaticMembersV3\StaticMembersV3\obj\Debug\netcoreapp3.1\StaticMembersV3.genruntimeconfig.cache
