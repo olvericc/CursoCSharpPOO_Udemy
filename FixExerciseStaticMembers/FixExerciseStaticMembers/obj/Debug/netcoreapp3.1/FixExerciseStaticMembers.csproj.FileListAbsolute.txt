@@ -1,0 +1,13 @@
+C:\temp\ProjetosVS2022\FixExerciseStaticMembers\FixExerciseStaticMembers\bin\Debug\netcoreapp3.1\FixExerciseStaticMembers.exe
+C:\temp\ProjetosVS2022\FixExerciseStaticMembers\FixExerciseStaticMembers\bin\Debug\netcoreapp3.1\FixExerciseStaticMembers.deps.json
+C:\temp\ProjetosVS2022\FixExerciseStaticMembers\FixExerciseStaticMembers\bin\Debug\netcoreapp3.1\FixExerciseStaticMembers.runtimeconfig.json
+C:\temp\ProjetosVS2022\FixExerciseStaticMembers\FixExerciseStaticMembers\bin\Debug\netcoreapp3.1\FixExerciseStaticMembers.runtimeconfig.dev.json
+C:\temp\ProjetosVS2022\FixExerciseStaticMembers\FixExerciseStaticMembers\bin\Debug\netcoreapp3.1\FixExerciseStaticMembers.dll
+C:\temp\ProjetosVS2022\FixExerciseStaticMembers\FixExerciseStaticMembers\bin\Debug\netcoreapp3.1\FixExerciseStaticMembers.pdb
+C:\temp\ProjetosVS2022\FixExerciseStaticMembers\FixExerciseStaticMembers\obj\Debug\netcoreapp3.1\FixExerciseStaticMembers.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\ProjetosVS2022\FixExerciseStaticMembers\FixExerciseStaticMembers\obj\Debug\netcoreapp3.1\FixExerciseStaticMembers.AssemblyInfoInputs.cache
+C:\temp\ProjetosVS2022\FixExerciseStaticMembers\FixExerciseStaticMembers\obj\Debug\netcoreapp3.1\FixExerciseStaticMembers.AssemblyInfo.cs
+C:\temp\ProjetosVS2022\FixExerciseStaticMembers\FixExerciseStaticMembers\obj\Debug\netcoreapp3.1\FixExerciseStaticMembers.csproj.CoreCompileInputs.cache
+C:\temp\ProjetosVS2022\FixExerciseStaticMembers\FixExerciseStaticMembers\obj\Debug\netcoreapp3.1\FixExerciseStaticMembers.dll
+C:\temp\ProjetosVS2022\FixExerciseStaticMembers\FixExerciseStaticMembers\obj\Debug\netcoreapp3.1\FixExerciseStaticMembers.pdb
+C:\temp\ProjetosVS2022\FixExerciseStaticMembers\FixExerciseStaticMembers\obj\Debug\netcoreapp3.1\FixExerciseStaticMembers.genruntimeconfig.cache
