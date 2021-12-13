@@ -1,0 +1,14 @@
+C:\temp\ProjetosVS2022\Overload\Overload\bin\Debug\netcoreapp3.1\Overload.exe
+C:\temp\ProjetosVS2022\Overload\Overload\bin\Debug\netcoreapp3.1\Overload.deps.json
+C:\temp\ProjetosVS2022\Overload\Overload\bin\Debug\netcoreapp3.1\Overload.runtimeconfig.json
+C:\temp\ProjetosVS2022\Overload\Overload\bin\Debug\netcoreapp3.1\Overload.runtimeconfig.dev.json
+C:\temp\ProjetosVS2022\Overload\Overload\bin\Debug\netcoreapp3.1\Overload.dll
+C:\temp\ProjetosVS2022\Overload\Overload\bin\Debug\netcoreapp3.1\Overload.pdb
+C:\temp\ProjetosVS2022\Overload\Overload\obj\Debug\netcoreapp3.1\Overload.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\ProjetosVS2022\Overload\Overload\obj\Debug\netcoreapp3.1\Overload.AssemblyInfoInputs.cache
+C:\temp\ProjetosVS2022\Overload\Overload\obj\Debug\netcoreapp3.1\Overload.AssemblyInfo.cs
+C:\temp\ProjetosVS2022\Overload\Overload\obj\Debug\netcoreapp3.1\Overload.csproj.CoreCompileInputs.cache
+C:\temp\ProjetosVS2022\Overload\Overload\obj\Debug\netcoreapp3.1\Overload.dll
+C:\temp\ProjetosVS2022\Overload\Overload\obj\Debug\netcoreapp3.1\Overload.pdb
+C:\temp\ProjetosVS2022\Overload\Overload\obj\Debug\netcoreapp3.1\Overload.genruntimeconfig.cache
+C:\temp\ProjetosVS2022\Overload\Overload\obj\Debug\netcoreapp3.1\Overload.csproj.AssemblyReference.cache
