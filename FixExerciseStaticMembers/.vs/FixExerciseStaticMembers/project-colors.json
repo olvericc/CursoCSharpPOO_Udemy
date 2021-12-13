@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "73a04328-919a-49d3-bb87-749329e3da85": {
+      "ProjectGuid": "73a04328-919a-49d3-bb87-749329e3da85",
+      "DisplayName": "FixExerciseStaticMembers",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
