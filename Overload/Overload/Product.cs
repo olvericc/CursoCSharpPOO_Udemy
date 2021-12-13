@@ -11,7 +11,15 @@ namespace Constructors {
 
         // default builder
         public Product() {
+            Quantity = 10;
         }
+
+        /* word this
+            public Product(string name, double price) : this() {
+                Name = name;
+                Price = price;
+            }
+        */
 
         // constructor with arguments
         public Product(string name, double price, int quantity) {

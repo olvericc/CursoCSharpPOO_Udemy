@@ -38,11 +38,13 @@ namespace Constructors {
             Console.WriteLine("updated data: " + p);
 
             // printing alternative sintax
-            Console.WriteLine("product 2: " + p2.Name 
-                + ", $" + p2.Price  
-                + ", " +  p2.Quantity 
+            Console.WriteLine("product 2: " 
+                + p2.Name 
+                + ", $" 
+                + p2.Price  
+                + ", " 
+                +  p2.Quantity 
                 + " unit.");
-
         }
     }
 }
