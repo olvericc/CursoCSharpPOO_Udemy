@@ -1,0 +1,14 @@
+C:\temp\ProjetosVS2022\Encapsultion\Encapsultion\bin\Debug\netcoreapp3.1\Encapsultion.exe
+C:\temp\ProjetosVS2022\Encapsultion\Encapsultion\bin\Debug\netcoreapp3.1\Encapsultion.deps.json
+C:\temp\ProjetosVS2022\Encapsultion\Encapsultion\bin\Debug\netcoreapp3.1\Encapsultion.runtimeconfig.json
+C:\temp\ProjetosVS2022\Encapsultion\Encapsultion\bin\Debug\netcoreapp3.1\Encapsultion.runtimeconfig.dev.json
+C:\temp\ProjetosVS2022\Encapsultion\Encapsultion\bin\Debug\netcoreapp3.1\Encapsultion.dll
+C:\temp\ProjetosVS2022\Encapsultion\Encapsultion\bin\Debug\netcoreapp3.1\Encapsultion.pdb
+C:\temp\ProjetosVS2022\Encapsultion\Encapsultion\obj\Debug\netcoreapp3.1\Encapsultion.csproj.AssemblyReference.cache
+C:\temp\ProjetosVS2022\Encapsultion\Encapsultion\obj\Debug\netcoreapp3.1\Encapsultion.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\ProjetosVS2022\Encapsultion\Encapsultion\obj\Debug\netcoreapp3.1\Encapsultion.AssemblyInfoInputs.cache
+C:\temp\ProjetosVS2022\Encapsultion\Encapsultion\obj\Debug\netcoreapp3.1\Encapsultion.AssemblyInfo.cs
+C:\temp\ProjetosVS2022\Encapsultion\Encapsultion\obj\Debug\netcoreapp3.1\Encapsultion.csproj.CoreCompileInputs.cache
+C:\temp\ProjetosVS2022\Encapsultion\Encapsultion\obj\Debug\netcoreapp3.1\Encapsultion.dll
+C:\temp\ProjetosVS2022\Encapsultion\Encapsultion\obj\Debug\netcoreapp3.1\Encapsultion.pdb
+C:\temp\ProjetosVS2022\Encapsultion\Encapsultion\obj\Debug\netcoreapp3.1\Encapsultion.genruntimeconfig.cache
