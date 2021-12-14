@@ -20,20 +20,22 @@ namespace Constructors {
             _quantity = quantity;
         }
 
-        // methods getters and setters
-        public string GetName() {
-            return _name;   
+        // properties
+        public string Name {
+            get { return _name;  }
+            set {
+                if (value != null && value.Length > 1) {
+                    _name = value;
+                }
+            }
         }
-        public void SetName(string name) {
-            if (name != null && name.Length > 0) {
-                _name = name;
-            } 
+
+        public double Price {
+            get { return _price; }
         }
-        public double GetPrice() {
-            return _price;
-        }
-        public int GetQuantity() {
-            return _quantity;
+
+        public int Quantity {
+            get { return _quantity; }
         }
 
         // method TotalValueInStock()

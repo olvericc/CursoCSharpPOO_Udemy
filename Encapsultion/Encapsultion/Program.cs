@@ -7,10 +7,10 @@ namespace Constructors {
 
             Product p = new Product("tv", 500.0, 10);
 
-            p.SetName("TV 4K");
+            p.Name = "L";
 
-            Console.WriteLine(p.GetName());
-            Console.WriteLine(p.GetPrice());
+            Console.WriteLine(p.Name);
+            Console.WriteLine(p.Price);
 
         }
     }
