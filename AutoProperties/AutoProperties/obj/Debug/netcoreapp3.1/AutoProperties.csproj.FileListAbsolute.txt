@@ -1,0 +1,14 @@
+C:\temp\ProjetosVS2022\AutoProperties\AutoProperties\bin\Debug\netcoreapp3.1\AutoProperties.exe
+C:\temp\ProjetosVS2022\AutoProperties\AutoProperties\bin\Debug\netcoreapp3.1\AutoProperties.deps.json
+C:\temp\ProjetosVS2022\AutoProperties\AutoProperties\bin\Debug\netcoreapp3.1\AutoProperties.runtimeconfig.json
+C:\temp\ProjetosVS2022\AutoProperties\AutoProperties\bin\Debug\netcoreapp3.1\AutoProperties.runtimeconfig.dev.json
+C:\temp\ProjetosVS2022\AutoProperties\AutoProperties\bin\Debug\netcoreapp3.1\AutoProperties.dll
+C:\temp\ProjetosVS2022\AutoProperties\AutoProperties\bin\Debug\netcoreapp3.1\AutoProperties.pdb
+C:\temp\ProjetosVS2022\AutoProperties\AutoProperties\obj\Debug\netcoreapp3.1\AutoProperties.csproj.AssemblyReference.cache
+C:\temp\ProjetosVS2022\AutoProperties\AutoProperties\obj\Debug\netcoreapp3.1\AutoProperties.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\ProjetosVS2022\AutoProperties\AutoProperties\obj\Debug\netcoreapp3.1\AutoProperties.AssemblyInfoInputs.cache
+C:\temp\ProjetosVS2022\AutoProperties\AutoProperties\obj\Debug\netcoreapp3.1\AutoProperties.AssemblyInfo.cs
+C:\temp\ProjetosVS2022\AutoProperties\AutoProperties\obj\Debug\netcoreapp3.1\AutoProperties.csproj.CoreCompileInputs.cache
+C:\temp\ProjetosVS2022\AutoProperties\AutoProperties\obj\Debug\netcoreapp3.1\AutoProperties.dll
+C:\temp\ProjetosVS2022\AutoProperties\AutoProperties\obj\Debug\netcoreapp3.1\AutoProperties.pdb
+C:\temp\ProjetosVS2022\AutoProperties\AutoProperties\obj\Debug\netcoreapp3.1\AutoProperties.genruntimeconfig.cache
