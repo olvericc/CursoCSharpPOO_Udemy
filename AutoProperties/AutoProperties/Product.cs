@@ -5,7 +5,7 @@ namespace Constructors {
     internal class Product {
 
         // class attributes
-        private string _name;
+        private string _name; // has particular logical
         public double Price { get; private set; } // prop
         public int Quantity { get; private set; } // prop
 
@@ -20,7 +20,7 @@ namespace Constructors {
             Quantity = quantity;
         }
 
-        // properties
+        // property Name
         public string Name {
             get { return _name; }
             set {
