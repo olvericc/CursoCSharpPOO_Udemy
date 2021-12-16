@@ -1,0 +1,14 @@
+C:\temp\ProjetosVS2022\StructType\StructType\bin\Debug\netcoreapp3.1\StructType.exe
+C:\temp\ProjetosVS2022\StructType\StructType\bin\Debug\netcoreapp3.1\StructType.deps.json
+C:\temp\ProjetosVS2022\StructType\StructType\bin\Debug\netcoreapp3.1\StructType.runtimeconfig.json
+C:\temp\ProjetosVS2022\StructType\StructType\bin\Debug\netcoreapp3.1\StructType.runtimeconfig.dev.json
+C:\temp\ProjetosVS2022\StructType\StructType\bin\Debug\netcoreapp3.1\StructType.dll
+C:\temp\ProjetosVS2022\StructType\StructType\bin\Debug\netcoreapp3.1\StructType.pdb
+C:\temp\ProjetosVS2022\StructType\StructType\obj\Debug\netcoreapp3.1\StructType.csproj.AssemblyReference.cache
+C:\temp\ProjetosVS2022\StructType\StructType\obj\Debug\netcoreapp3.1\StructType.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\ProjetosVS2022\StructType\StructType\obj\Debug\netcoreapp3.1\StructType.AssemblyInfoInputs.cache
+C:\temp\ProjetosVS2022\StructType\StructType\obj\Debug\netcoreapp3.1\StructType.AssemblyInfo.cs
+C:\temp\ProjetosVS2022\StructType\StructType\obj\Debug\netcoreapp3.1\StructType.csproj.CoreCompileInputs.cache
+C:\temp\ProjetosVS2022\StructType\StructType\obj\Debug\netcoreapp3.1\StructType.dll
+C:\temp\ProjetosVS2022\StructType\StructType\obj\Debug\netcoreapp3.1\StructType.pdb
+C:\temp\ProjetosVS2022\StructType\StructType\obj\Debug\netcoreapp3.1\StructType.genruntimeconfig.cache

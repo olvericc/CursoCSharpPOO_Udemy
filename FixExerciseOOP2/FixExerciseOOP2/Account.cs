@@ -20,8 +20,9 @@ namespace FixExerciseOOP2 {
         }
 
         // constructor with three arguments using  ': this'
-        public Account(int number, string holder, double balance) : this(number, holder) {
-            Balance = balance;
+        public Account(int number, string holder, double initialDeposit) : this(number, holder) {
+            // Balance = initialDeposit;
+            Deposit(initialDeposit); // good way
         }
 
         // method Deposit()
