@@ -1,0 +1,14 @@
+C:\temp\ProjetosVS2022\ParamModifierREF\ParamModifierREF\bin\Debug\netcoreapp3.1\ParamModifierREF.exe
+C:\temp\ProjetosVS2022\ParamModifierREF\ParamModifierREF\bin\Debug\netcoreapp3.1\ParamModifierREF.deps.json
+C:\temp\ProjetosVS2022\ParamModifierREF\ParamModifierREF\bin\Debug\netcoreapp3.1\ParamModifierREF.runtimeconfig.json
+C:\temp\ProjetosVS2022\ParamModifierREF\ParamModifierREF\bin\Debug\netcoreapp3.1\ParamModifierREF.runtimeconfig.dev.json
+C:\temp\ProjetosVS2022\ParamModifierREF\ParamModifierREF\bin\Debug\netcoreapp3.1\ParamModifierREF.dll
+C:\temp\ProjetosVS2022\ParamModifierREF\ParamModifierREF\bin\Debug\netcoreapp3.1\ParamModifierREF.pdb
+C:\temp\ProjetosVS2022\ParamModifierREF\ParamModifierREF\obj\Debug\netcoreapp3.1\ParamModifierREF.csproj.AssemblyReference.cache
+C:\temp\ProjetosVS2022\ParamModifierREF\ParamModifierREF\obj\Debug\netcoreapp3.1\ParamModifierREF.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\ProjetosVS2022\ParamModifierREF\ParamModifierREF\obj\Debug\netcoreapp3.1\ParamModifierREF.AssemblyInfoInputs.cache
+C:\temp\ProjetosVS2022\ParamModifierREF\ParamModifierREF\obj\Debug\netcoreapp3.1\ParamModifierREF.AssemblyInfo.cs
+C:\temp\ProjetosVS2022\ParamModifierREF\ParamModifierREF\obj\Debug\netcoreapp3.1\ParamModifierREF.csproj.CoreCompileInputs.cache
+C:\temp\ProjetosVS2022\ParamModifierREF\ParamModifierREF\obj\Debug\netcoreapp3.1\ParamModifierREF.dll
+C:\temp\ProjetosVS2022\ParamModifierREF\ParamModifierREF\obj\Debug\netcoreapp3.1\ParamModifierREF.pdb
+C:\temp\ProjetosVS2022\ParamModifierREF\ParamModifierREF\obj\Debug\netcoreapp3.1\ParamModifierREF.genruntimeconfig.cache
