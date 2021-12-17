@@ -1,0 +1,14 @@
+C:\temp\ProjetosVS2022\ExampleProblemVects01\ExampleProblemVects01\bin\Debug\netcoreapp3.1\ExampleProblemVects01.exe
+C:\temp\ProjetosVS2022\ExampleProblemVects01\ExampleProblemVects01\bin\Debug\netcoreapp3.1\ExampleProblemVects01.deps.json
+C:\temp\ProjetosVS2022\ExampleProblemVects01\ExampleProblemVects01\bin\Debug\netcoreapp3.1\ExampleProblemVects01.runtimeconfig.json
+C:\temp\ProjetosVS2022\ExampleProblemVects01\ExampleProblemVects01\bin\Debug\netcoreapp3.1\ExampleProblemVects01.runtimeconfig.dev.json
+C:\temp\ProjetosVS2022\ExampleProblemVects01\ExampleProblemVects01\bin\Debug\netcoreapp3.1\ExampleProblemVects01.dll
+C:\temp\ProjetosVS2022\ExampleProblemVects01\ExampleProblemVects01\bin\Debug\netcoreapp3.1\ExampleProblemVects01.pdb
+C:\temp\ProjetosVS2022\ExampleProblemVects01\ExampleProblemVects01\obj\Debug\netcoreapp3.1\ExampleProblemVects01.csproj.AssemblyReference.cache
+C:\temp\ProjetosVS2022\ExampleProblemVects01\ExampleProblemVects01\obj\Debug\netcoreapp3.1\ExampleProblemVects01.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\ProjetosVS2022\ExampleProblemVects01\ExampleProblemVects01\obj\Debug\netcoreapp3.1\ExampleProblemVects01.AssemblyInfoInputs.cache
+C:\temp\ProjetosVS2022\ExampleProblemVects01\ExampleProblemVects01\obj\Debug\netcoreapp3.1\ExampleProblemVects01.AssemblyInfo.cs
+C:\temp\ProjetosVS2022\ExampleProblemVects01\ExampleProblemVects01\obj\Debug\netcoreapp3.1\ExampleProblemVects01.csproj.CoreCompileInputs.cache
+C:\temp\ProjetosVS2022\ExampleProblemVects01\ExampleProblemVects01\obj\Debug\netcoreapp3.1\ExampleProblemVects01.dll
+C:\temp\ProjetosVS2022\ExampleProblemVects01\ExampleProblemVects01\obj\Debug\netcoreapp3.1\ExampleProblemVects01.pdb
+C:\temp\ProjetosVS2022\ExampleProblemVects01\ExampleProblemVects01\obj\Debug\netcoreapp3.1\ExampleProblemVects01.genruntimeconfig.cache
