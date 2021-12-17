@@ -1,0 +1,14 @@
+C:\temp\ProjetosVS2022\FixExerciseVect\FixExerciseVect\bin\Debug\netcoreapp3.1\FixExerciseVect.exe
+C:\temp\ProjetosVS2022\FixExerciseVect\FixExerciseVect\bin\Debug\netcoreapp3.1\FixExerciseVect.deps.json
+C:\temp\ProjetosVS2022\FixExerciseVect\FixExerciseVect\bin\Debug\netcoreapp3.1\FixExerciseVect.runtimeconfig.json
+C:\temp\ProjetosVS2022\FixExerciseVect\FixExerciseVect\bin\Debug\netcoreapp3.1\FixExerciseVect.runtimeconfig.dev.json
+C:\temp\ProjetosVS2022\FixExerciseVect\FixExerciseVect\bin\Debug\netcoreapp3.1\FixExerciseVect.dll
+C:\temp\ProjetosVS2022\FixExerciseVect\FixExerciseVect\bin\Debug\netcoreapp3.1\FixExerciseVect.pdb
+C:\temp\ProjetosVS2022\FixExerciseVect\FixExerciseVect\obj\Debug\netcoreapp3.1\FixExerciseVect.csproj.AssemblyReference.cache
+C:\temp\ProjetosVS2022\FixExerciseVect\FixExerciseVect\obj\Debug\netcoreapp3.1\FixExerciseVect.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\ProjetosVS2022\FixExerciseVect\FixExerciseVect\obj\Debug\netcoreapp3.1\FixExerciseVect.AssemblyInfoInputs.cache
+C:\temp\ProjetosVS2022\FixExerciseVect\FixExerciseVect\obj\Debug\netcoreapp3.1\FixExerciseVect.AssemblyInfo.cs
+C:\temp\ProjetosVS2022\FixExerciseVect\FixExerciseVect\obj\Debug\netcoreapp3.1\FixExerciseVect.csproj.CoreCompileInputs.cache
+C:\temp\ProjetosVS2022\FixExerciseVect\FixExerciseVect\obj\Debug\netcoreapp3.1\FixExerciseVect.dll
+C:\temp\ProjetosVS2022\FixExerciseVect\FixExerciseVect\obj\Debug\netcoreapp3.1\FixExerciseVect.pdb
+C:\temp\ProjetosVS2022\FixExerciseVect\FixExerciseVect\obj\Debug\netcoreapp3.1\FixExerciseVect.genruntimeconfig.cache
