@@ -1,0 +1,14 @@
+C:\temp\ProjetosVS2022\Lists\Lists\bin\Debug\netcoreapp3.1\Lists.exe
+C:\temp\ProjetosVS2022\Lists\Lists\bin\Debug\netcoreapp3.1\Lists.deps.json
+C:\temp\ProjetosVS2022\Lists\Lists\bin\Debug\netcoreapp3.1\Lists.runtimeconfig.json
+C:\temp\ProjetosVS2022\Lists\Lists\bin\Debug\netcoreapp3.1\Lists.runtimeconfig.dev.json
+C:\temp\ProjetosVS2022\Lists\Lists\bin\Debug\netcoreapp3.1\Lists.dll
+C:\temp\ProjetosVS2022\Lists\Lists\bin\Debug\netcoreapp3.1\Lists.pdb
+C:\temp\ProjetosVS2022\Lists\Lists\obj\Debug\netcoreapp3.1\Lists.csproj.AssemblyReference.cache
+C:\temp\ProjetosVS2022\Lists\Lists\obj\Debug\netcoreapp3.1\Lists.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\ProjetosVS2022\Lists\Lists\obj\Debug\netcoreapp3.1\Lists.AssemblyInfoInputs.cache
+C:\temp\ProjetosVS2022\Lists\Lists\obj\Debug\netcoreapp3.1\Lists.AssemblyInfo.cs
+C:\temp\ProjetosVS2022\Lists\Lists\obj\Debug\netcoreapp3.1\Lists.csproj.CoreCompileInputs.cache
+C:\temp\ProjetosVS2022\Lists\Lists\obj\Debug\netcoreapp3.1\Lists.dll
+C:\temp\ProjetosVS2022\Lists\Lists\obj\Debug\netcoreapp3.1\Lists.pdb
+C:\temp\ProjetosVS2022\Lists\Lists\obj\Debug\netcoreapp3.1\Lists.genruntimeconfig.cache
