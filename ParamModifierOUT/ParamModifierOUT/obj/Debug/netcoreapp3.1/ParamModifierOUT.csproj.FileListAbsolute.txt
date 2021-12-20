@@ -1,0 +1,14 @@
+C:\temp\ProjetosVS2022\ParamModifierOUT\ParamModifierOUT\bin\Debug\netcoreapp3.1\ParamModifierOUT.exe
+C:\temp\ProjetosVS2022\ParamModifierOUT\ParamModifierOUT\bin\Debug\netcoreapp3.1\ParamModifierOUT.deps.json
+C:\temp\ProjetosVS2022\ParamModifierOUT\ParamModifierOUT\bin\Debug\netcoreapp3.1\ParamModifierOUT.runtimeconfig.json
+C:\temp\ProjetosVS2022\ParamModifierOUT\ParamModifierOUT\bin\Debug\netcoreapp3.1\ParamModifierOUT.runtimeconfig.dev.json
+C:\temp\ProjetosVS2022\ParamModifierOUT\ParamModifierOUT\bin\Debug\netcoreapp3.1\ParamModifierOUT.dll
+C:\temp\ProjetosVS2022\ParamModifierOUT\ParamModifierOUT\bin\Debug\netcoreapp3.1\ParamModifierOUT.pdb
+C:\temp\ProjetosVS2022\ParamModifierOUT\ParamModifierOUT\obj\Debug\netcoreapp3.1\ParamModifierOUT.csproj.AssemblyReference.cache
+C:\temp\ProjetosVS2022\ParamModifierOUT\ParamModifierOUT\obj\Debug\netcoreapp3.1\ParamModifierOUT.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\ProjetosVS2022\ParamModifierOUT\ParamModifierOUT\obj\Debug\netcoreapp3.1\ParamModifierOUT.AssemblyInfoInputs.cache
+C:\temp\ProjetosVS2022\ParamModifierOUT\ParamModifierOUT\obj\Debug\netcoreapp3.1\ParamModifierOUT.AssemblyInfo.cs
+C:\temp\ProjetosVS2022\ParamModifierOUT\ParamModifierOUT\obj\Debug\netcoreapp3.1\ParamModifierOUT.csproj.CoreCompileInputs.cache
+C:\temp\ProjetosVS2022\ParamModifierOUT\ParamModifierOUT\obj\Debug\netcoreapp3.1\ParamModifierOUT.dll
+C:\temp\ProjetosVS2022\ParamModifierOUT\ParamModifierOUT\obj\Debug\netcoreapp3.1\ParamModifierOUT.pdb
+C:\temp\ProjetosVS2022\ParamModifierOUT\ParamModifierOUT\obj\Debug\netcoreapp3.1\ParamModifierOUT.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\temp\ProjetosVS2022\ForEachLoop\ForEachLoop\bin\Debug\netcoreapp3.1\ForEachLoop.exe
+C:\temp\ProjetosVS2022\ForEachLoop\ForEachLoop\bin\Debug\netcoreapp3.1\ForEachLoop.deps.json
+C:\temp\ProjetosVS2022\ForEachLoop\ForEachLoop\bin\Debug\netcoreapp3.1\ForEachLoop.runtimeconfig.json
+C:\temp\ProjetosVS2022\ForEachLoop\ForEachLoop\bin\Debug\netcoreapp3.1\ForEachLoop.runtimeconfig.dev.json
+C:\temp\ProjetosVS2022\ForEachLoop\ForEachLoop\bin\Debug\netcoreapp3.1\ForEachLoop.dll
+C:\temp\ProjetosVS2022\ForEachLoop\ForEachLoop\bin\Debug\netcoreapp3.1\ForEachLoop.pdb
+C:\temp\ProjetosVS2022\ForEachLoop\ForEachLoop\obj\Debug\netcoreapp3.1\ForEachLoop.csproj.AssemblyReference.cache
+C:\temp\ProjetosVS2022\ForEachLoop\ForEachLoop\obj\Debug\netcoreapp3.1\ForEachLoop.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\ProjetosVS2022\ForEachLoop\ForEachLoop\obj\Debug\netcoreapp3.1\ForEachLoop.AssemblyInfoInputs.cache
+C:\temp\ProjetosVS2022\ForEachLoop\ForEachLoop\obj\Debug\netcoreapp3.1\ForEachLoop.AssemblyInfo.cs
+C:\temp\ProjetosVS2022\ForEachLoop\ForEachLoop\obj\Debug\netcoreapp3.1\ForEachLoop.csproj.CoreCompileInputs.cache
+C:\temp\ProjetosVS2022\ForEachLoop\ForEachLoop\obj\Debug\netcoreapp3.1\ForEachLoop.dll
+C:\temp\ProjetosVS2022\ForEachLoop\ForEachLoop\obj\Debug\netcoreapp3.1\ForEachLoop.pdb
+C:\temp\ProjetosVS2022\ForEachLoop\ForEachLoop\obj\Debug\netcoreapp3.1\ForEachLoop.genruntimeconfig.cache
