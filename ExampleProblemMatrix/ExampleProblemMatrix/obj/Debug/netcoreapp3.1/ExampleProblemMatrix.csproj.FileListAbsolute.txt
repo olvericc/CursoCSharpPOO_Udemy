@@ -1,0 +1,13 @@
+C:\temp\ProjetosVS2022\ExampleProblemMatrix\ExampleProblemMatrix\bin\Debug\netcoreapp3.1\ExampleProblemMatrix.exe
+C:\temp\ProjetosVS2022\ExampleProblemMatrix\ExampleProblemMatrix\bin\Debug\netcoreapp3.1\ExampleProblemMatrix.deps.json
+C:\temp\ProjetosVS2022\ExampleProblemMatrix\ExampleProblemMatrix\bin\Debug\netcoreapp3.1\ExampleProblemMatrix.runtimeconfig.json
+C:\temp\ProjetosVS2022\ExampleProblemMatrix\ExampleProblemMatrix\bin\Debug\netcoreapp3.1\ExampleProblemMatrix.runtimeconfig.dev.json
+C:\temp\ProjetosVS2022\ExampleProblemMatrix\ExampleProblemMatrix\bin\Debug\netcoreapp3.1\ExampleProblemMatrix.dll
+C:\temp\ProjetosVS2022\ExampleProblemMatrix\ExampleProblemMatrix\bin\Debug\netcoreapp3.1\ExampleProblemMatrix.pdb
+C:\temp\ProjetosVS2022\ExampleProblemMatrix\ExampleProblemMatrix\obj\Debug\netcoreapp3.1\ExampleProblemMatrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\ProjetosVS2022\ExampleProblemMatrix\ExampleProblemMatrix\obj\Debug\netcoreapp3.1\ExampleProblemMatrix.AssemblyInfoInputs.cache
+C:\temp\ProjetosVS2022\ExampleProblemMatrix\ExampleProblemMatrix\obj\Debug\netcoreapp3.1\ExampleProblemMatrix.AssemblyInfo.cs
+C:\temp\ProjetosVS2022\ExampleProblemMatrix\ExampleProblemMatrix\obj\Debug\netcoreapp3.1\ExampleProblemMatrix.csproj.CoreCompileInputs.cache
+C:\temp\ProjetosVS2022\ExampleProblemMatrix\ExampleProblemMatrix\obj\Debug\netcoreapp3.1\ExampleProblemMatrix.dll
+C:\temp\ProjetosVS2022\ExampleProblemMatrix\ExampleProblemMatrix\obj\Debug\netcoreapp3.1\ExampleProblemMatrix.pdb
+C:\temp\ProjetosVS2022\ExampleProblemMatrix\ExampleProblemMatrix\obj\Debug\netcoreapp3.1\ExampleProblemMatrix.genruntimeconfig.cache
