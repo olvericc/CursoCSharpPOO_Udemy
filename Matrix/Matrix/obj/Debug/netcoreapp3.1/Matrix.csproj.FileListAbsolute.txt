@@ -1,0 +1,14 @@
+C:\temp\ProjetosVS2022\Matrix\Matrix\bin\Debug\netcoreapp3.1\Matrix.exe
+C:\temp\ProjetosVS2022\Matrix\Matrix\bin\Debug\netcoreapp3.1\Matrix.deps.json
+C:\temp\ProjetosVS2022\Matrix\Matrix\bin\Debug\netcoreapp3.1\Matrix.runtimeconfig.json
+C:\temp\ProjetosVS2022\Matrix\Matrix\bin\Debug\netcoreapp3.1\Matrix.runtimeconfig.dev.json
+C:\temp\ProjetosVS2022\Matrix\Matrix\bin\Debug\netcoreapp3.1\Matrix.dll
+C:\temp\ProjetosVS2022\Matrix\Matrix\bin\Debug\netcoreapp3.1\Matrix.pdb
+C:\temp\ProjetosVS2022\Matrix\Matrix\obj\Debug\netcoreapp3.1\Matrix.csproj.AssemblyReference.cache
+C:\temp\ProjetosVS2022\Matrix\Matrix\obj\Debug\netcoreapp3.1\Matrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\ProjetosVS2022\Matrix\Matrix\obj\Debug\netcoreapp3.1\Matrix.AssemblyInfoInputs.cache
+C:\temp\ProjetosVS2022\Matrix\Matrix\obj\Debug\netcoreapp3.1\Matrix.AssemblyInfo.cs
+C:\temp\ProjetosVS2022\Matrix\Matrix\obj\Debug\netcoreapp3.1\Matrix.csproj.CoreCompileInputs.cache
+C:\temp\ProjetosVS2022\Matrix\Matrix\obj\Debug\netcoreapp3.1\Matrix.dll
+C:\temp\ProjetosVS2022\Matrix\Matrix\obj\Debug\netcoreapp3.1\Matrix.pdb
+C:\temp\ProjetosVS2022\Matrix\Matrix\obj\Debug\netcoreapp3.1\Matrix.genruntimeconfig.cache
