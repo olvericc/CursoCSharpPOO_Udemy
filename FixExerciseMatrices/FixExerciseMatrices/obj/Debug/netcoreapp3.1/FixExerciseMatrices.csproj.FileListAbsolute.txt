@@ -1,0 +1,14 @@
+C:\temp\ProjetosVS2022\FixExerciseMatrices\FixExerciseMatrices\bin\Debug\netcoreapp3.1\FixExerciseMatrices.exe
+C:\temp\ProjetosVS2022\FixExerciseMatrices\FixExerciseMatrices\bin\Debug\netcoreapp3.1\FixExerciseMatrices.deps.json
+C:\temp\ProjetosVS2022\FixExerciseMatrices\FixExerciseMatrices\bin\Debug\netcoreapp3.1\FixExerciseMatrices.runtimeconfig.json
+C:\temp\ProjetosVS2022\FixExerciseMatrices\FixExerciseMatrices\bin\Debug\netcoreapp3.1\FixExerciseMatrices.runtimeconfig.dev.json
+C:\temp\ProjetosVS2022\FixExerciseMatrices\FixExerciseMatrices\bin\Debug\netcoreapp3.1\FixExerciseMatrices.dll
+C:\temp\ProjetosVS2022\FixExerciseMatrices\FixExerciseMatrices\bin\Debug\netcoreapp3.1\FixExerciseMatrices.pdb
+C:\temp\ProjetosVS2022\FixExerciseMatrices\FixExerciseMatrices\obj\Debug\netcoreapp3.1\FixExerciseMatrices.csproj.AssemblyReference.cache
+C:\temp\ProjetosVS2022\FixExerciseMatrices\FixExerciseMatrices\obj\Debug\netcoreapp3.1\FixExerciseMatrices.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\ProjetosVS2022\FixExerciseMatrices\FixExerciseMatrices\obj\Debug\netcoreapp3.1\FixExerciseMatrices.AssemblyInfoInputs.cache
+C:\temp\ProjetosVS2022\FixExerciseMatrices\FixExerciseMatrices\obj\Debug\netcoreapp3.1\FixExerciseMatrices.AssemblyInfo.cs
+C:\temp\ProjetosVS2022\FixExerciseMatrices\FixExerciseMatrices\obj\Debug\netcoreapp3.1\FixExerciseMatrices.csproj.CoreCompileInputs.cache
+C:\temp\ProjetosVS2022\FixExerciseMatrices\FixExerciseMatrices\obj\Debug\netcoreapp3.1\FixExerciseMatrices.dll
+C:\temp\ProjetosVS2022\FixExerciseMatrices\FixExerciseMatrices\obj\Debug\netcoreapp3.1\FixExerciseMatrices.pdb
+C:\temp\ProjetosVS2022\FixExerciseMatrices\FixExerciseMatrices\obj\Debug\netcoreapp3.1\FixExerciseMatrices.genruntimeconfig.cache

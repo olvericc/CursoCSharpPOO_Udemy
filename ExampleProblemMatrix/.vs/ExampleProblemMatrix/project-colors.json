@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "5e4354d7-047a-46bb-9c54-a2a152566a09": {
+      "ProjectGuid": "5e4354d7-047a-46bb-9c54-a2a152566a09",
+      "DisplayName": "ExampleProblemMatrix",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
